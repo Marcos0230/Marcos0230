@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Crazy Bot v2](https://github.com/LeGarsFou/Crazy-Bot-v2)
 
-- 🌱 I’m currently learning **Qt**
+- 🌱 I’m currently learning **Nothing** (🥲)
 
 - 👨‍💻 All of my projects are available at [https://github.com/LeGarsFou?tab=repositories](https://github.com/LeGarsFou?tab=repositories)
 
