@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Marcos0230?tab=repositories](https://github.com/Marcos0230?tab=repositories)
 
-- 📫 How to reach me **@Marcos0230 on Discord**
+- 📫 How to reach me **@marcos0230_ on Discord**
 
 - ⚡ Fun fact **I'm fond of motorsports 🏎️🏍️**
 
