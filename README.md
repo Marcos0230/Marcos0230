@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Marcos0230&show_icons=true&locale=en" alt="Marcos0230" /></p>
 
-[![LeGarsFou's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Marcos0230)](https://github.com/anuraghazra/github-readme-stats)
+[![Marcos0230's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Marcos0230)](https://github.com/anuraghazra/github-readme-stats)
