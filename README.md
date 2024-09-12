@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Crazy Bot v2](https://github.com/Marcos0230/Crazy-Bot-v2)
 
-- 🌱 I’m currently learning **Nothing** (🥲)
+- 🌱 I’m currently learning **School Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Marcos0230?tab=repositories](https://github.com/Marcos0230?tab=repositories)
 
