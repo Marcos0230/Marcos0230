@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Marcos0230&label=Profile%20views&color=0e75b6&style=flat" alt="Marcos0230" /> </p>
 
-- 🔭 I’m currently working on [Crazy Bot v2](https://github.com/Marcos0230/Crazy-Bot-v2)
+- 🔭 I’m currently working on **School Projects**
 
-- 🌱 I’m currently learning **School Projects**
+- 🌱 I’m currently learning **HTML/CSS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Marcos0230?tab=repositories](https://github.com/Marcos0230?tab=repositories)
 
